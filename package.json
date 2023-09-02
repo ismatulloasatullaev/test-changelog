@@ -9,11 +9,9 @@
     "url": "git+https://github.com/1smat/test-changelog"
   },
   "scripts": {
-    "release": "standard-version"
+    "release": "release-it --template template.hbs"
   },
   "devDependencies": {
-    "changelog-guru": "^5.0.0",
-    "conventional-changelog-conventionalcommits": "^6.1.0",
-    "standard-version": "^9.5.0"
+    "release-it": "^16.1.5"
   }
 }
