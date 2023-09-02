@@ -1,18 +1,12 @@
-# Changelog
-
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
-
 ## [1.2.0](///compare/v1.1.1...v1.2.0) (2023-09-02)
-
 
 ### Features
 
-* **standart-version:** init tool 7c2e211
-
+- **standart-version:** init tool 7c2e211
 
 ### Bug Fixes
 
-* **scope-any:** some fix e9fff76
+- **scope-any:** some fix e9fff76
 
 ### Changelog
 
