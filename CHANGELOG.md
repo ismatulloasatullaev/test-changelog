@@ -1,3 +1,11 @@
+# Changelog
+
+## [Unreleased]
+
+### Added
+
+- Keep-a-changelog plugin added.
+
 ## [1.2.0](///compare/v1.1.1...v1.2.0) (2023-09-02)
 
 ### Features
