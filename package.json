@@ -1,0 +1,16 @@
+{
+  "name": "semantic-release",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ismatullo Asatullaev <ismatullome@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "version": "auto-changelog -p --template changelog-template.hbs && git add CHANGELOG.md"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "auto-changelog": "^2.4.0",
+    "semantic-release": "19.0.2"
+  }
+}
