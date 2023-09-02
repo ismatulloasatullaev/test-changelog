@@ -5,13 +5,10 @@
   "author": "Ismatullo Asatullaev <ismatullome@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "version": "auto-changelog -p --template changelog-template.hbs && git add CHANGELOG.md"
+    "release": "standard-version"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/git": "^10.0.1",
-    "auto-changelog": "^2.4.0",
-    "conventional-changelog-cli": "^4.0.0",
-    "semantic-release": "19.0.2"
+    "conventional-changelog-conventionalcommits": "^6.1.0",
+    "standard-version": "^9.5.0"
   }
 }
